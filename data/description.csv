@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やせるごみ,,,img/moyasanai02.svg,#733b96
-燃やせないごみ,,,img/
-プラスチック製容器包装の日,,,img/
+燃やせるごみ,,,img/moyasu.svg,#ea3b13
+燃やせないごみ,,,img/moyasanai02.svg,#733b96
+プラスチック製容器包装の日,,,img/,#bbe400
 缶・ビン・ペットボトルの日,,,img//bin02.svg,#2dc7aa
 新聞紙の日,,,img/shigen02.svg,#77ae1f
-雑誌・ダンボール・紙の日,,,img/
+雑誌・ダンボール・紙の日,,,img/shigen.svg,#27a047
